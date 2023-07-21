@@ -27,7 +27,6 @@
     "bugs": "https://github.com/kenwheeler/slick/issues",
     "homepage": "https://github.com/kenwheeler/slick/",
     "docs": "https://github.com/kenwheeler/slick/",
-    "download": "https://github.com/kenwheeler/slick/archive/master.zip",
     "dependencies": {
         "jquery": ">=1.7"
     }
